@@ -1,3 +1,5 @@
-# Hello! I am the Const or constvk
+# Hi there, I'm Const! :wave:
 
-<img src="![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=constvk)">
+<a href="https://github-readme-stats.vercel.app/api?username=constvk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=constvk" />
+</a>
