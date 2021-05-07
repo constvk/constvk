@@ -1,4 +1,4 @@
-## Hello my name is const and I am a Student
+## Hello My Name is Const and I am a Student 💻
 - I study python, JavaScript and C
 - I'm 15 years old and I'm from Brazil! 🇧🇷
 - I don’t just post things here, I have a  __**[Youtube Channel](https://www.youtube.com/channel/UCz18xAahukeop39zlTdsTxg)**__ and I also use Discord a lot. 
