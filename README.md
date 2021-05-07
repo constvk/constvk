@@ -1,2 +1,11 @@
-# Hi there, I'm Const! :wave:
-<a href="https://github.com/constvk"><img src="https://github-readme-stats.vercel.app/api?username=constvk"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constvk">
+## Hello my name is const and I am a Student
+- I study python, JavaScript and C
+- I'm 15 years old and I'm from Brazil! 🇧🇷
+- I don’t just post things here, I have a  __**[Youtube Channel](https://www.youtube.com/channel/UCz18xAahukeop39zlTdsTxg)**__ and I also use Discord a lot. 
+
+```
+Youtube: Const
+Discord: Const#0001
+Twitter: @ConstSecurity
+```
+<a href="https://github.com/constvk"><img src="https://github-readme-stats.vercel.app/api?username=constvk"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constvk">
